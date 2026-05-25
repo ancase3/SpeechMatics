@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Competition data - do not upload
+data/
+datasets/
+train/
+test/
+input/
+output/
+ref/
+res/
+gold/
+gold_labels/
+private_data/
+raw_data/
+
+# Participant/private outputs
+submissions/
+predictions/
+outputs/
+runs/
+scores/
+*.jsonl
+*.log
+
+# Archives and large local files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Generated temporary files
+submission_file.csv
+scores.json
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
