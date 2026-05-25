@@ -1,4 +1,3 @@
-[official_results.md](https://github.com/user-attachments/files/28215223/official_results.md)
 # Official Results
 
 The official results of the **SpeechMatics** shared task are reported below.
