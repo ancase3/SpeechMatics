@@ -1,0 +1,8 @@
+# Core dependencies for the official scorer
+numpy>=1.23
+scikit-learn>=1.2
+
+# Dependencies used by the baseline notebook/script
+pandas>=1.5
+librosa>=0.10
+tqdm>=4.64
